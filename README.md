@@ -4,8 +4,6 @@
 
 ### requirement:
 
- python >= 3.6
- 
- docx
- 
- win32com
+ - python >= 3.6
+ - docx
+ - win32com
